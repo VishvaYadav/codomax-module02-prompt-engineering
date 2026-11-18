@@ -74,9 +74,9 @@ See [`reports/prompt_evaluation_report.md`](reports/prompt_evaluation_report.md)
 
 | Prompt version | Accuracy | Format compliance |
 |---|---|---|
-| v1 – vague zero-shot | _fill from report_ | _fill from report_ |
-| v2 – constrained zero-shot | _fill from report_ | _fill from report_ |
-| v3 – role + few-shot + JSON | _fill from report_ | _fill from report_ |
+| v1 – vague zero-shot | 80% | 0% |
+| v2 – constrained zero-shot | 90% | 100% |
+| v3 – role + few-shot + JSON | 100% | 100% |
 
 ## 💡 Key learnings
 
