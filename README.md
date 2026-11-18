@@ -3,7 +3,7 @@
 **Codomax Digital Solutions · Generative AI Internship · Day 6 – Day 10**
 Intern: **Vishva Yadav** · B.E. Computer Engineering
 
-<a href="https://colab.research.google.com/github/<your-github-username>/codomax-module02-prompt-engineering/blob/main/Module02_Prompt_Engineering.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/VishvaYadav/codomax-module02-prompt-engineering/blob/main/Module02_Prompt_Engineering.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## 🎯 Objectives covered
 
